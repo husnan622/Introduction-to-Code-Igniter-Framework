@@ -1,1 +1,1 @@
-# Introduction-to-Code-Igniter-Framework
+# Introduction to Code Igniter Framework
